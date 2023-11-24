@@ -29,6 +29,7 @@ Include areas which need improvement / could be improved. Also add TODOs for fut
 * The application can have more validation on fields being entered by the user Ex- CheckMonth.
 * The code can be written in a better logical order
 * Coding could have been started well in advance to better plan the structure and design
+* Create UML diagrams
 
  
 
