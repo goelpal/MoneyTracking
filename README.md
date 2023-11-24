@@ -28,6 +28,7 @@ The following resources were referred while developing the application-
 
 Include areas which need improvement / could be improved. Also add TODOs for future development.
 * The application can have more validation on fields being entered by the user Ex- CheckMonth.
+* More fields can be added to the class like Date.
 * The code can be written in a better logical order
 * Coding could have been started well in advance to better plan the structure and design
 * Create UML diagrams
