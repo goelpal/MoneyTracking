@@ -9,6 +9,7 @@ This is a console application created to track the ongoing transactions e.g inco
 * Tracks the income and expense of the user month vice.
 * The user can also give a title to the income and expense record
 * The user also have the ability to add, edit and delete a record if required
+* The Money Tracking file will be generated at the default location ..MoneyTracking\bin\Debug\net6.0
 
 ## Technology and Software Used
 
